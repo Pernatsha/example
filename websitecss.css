@@ -1,0 +1,133 @@
+nav{
+    background-color: #3b5998;
+    width: 100%;
+    height: 110px;
+    padding-top: 10px;
+    position: sticky;
+    top: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.log{
+    margin-left: 58%;
+    margin-top: 20px;
+    font-size: 13px;
+
+}
+.pass{
+    color: white;
+    margin: 16%;
+}
+.forget{
+    margin-left: 200px;
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    opacity: 0.5;
+    display: inline-block;
+
+}
+.input-log{
+    margin-top: 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.emai{
+    margin-left: 3%;
+    color: white;
+}
+.spane{
+    color: white;
+    font-size: 60px;
+    
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 120px;
+}
+.butt{
+    color: white;
+    background-color: #3b5998;
+    border-radius: 5px;
+    font-size: small;
+    width: 50px;
+}
+.creat{
+    position: absolute;
+    margin-left: 58%;
+
+
+}
+.images{
+    position: absolute;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.quote{
+    color: #3b5998;
+    width: 400px;
+    margin-top: 50px;
+    margin-left:130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    word-spacing: 3px;
+    display: inline-flex;
+    font-weight: 600;
+}
+.acc{
+    margin-bottom: 20px;
+    
+}
+.first{
+    padding: 5px;
+}
+.second{
+    padding: 5px;
+    margin-top: 5px;
+    padding-right: 193px;
+}
+.thirds{
+    padding: 5px;
+    margin-top: 5px;
+    padding-right: 193px;
+    margin-bottom: 20px;
+}
+.birth{
+    font-size: 15px;
+}
+.dat{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.male{
+    margin-top: 10px;
+    margin-right: 5px;
+}
+.female{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.agree{
+    font-size: 12px;
+    width: 325px;
+}
+.sign{
+    width: 200px;
+    height: 40px;background-color: #56953e;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+.coo{
+    padding: 3px;
+    border: 1px solid;
+    text-decoration: none;
+    border-radius: 50%;
+    background-color: rgb(95, 93, 93);
+    color: white;
+    margin-left: 30px;
+}
